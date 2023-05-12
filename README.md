@@ -19,6 +19,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682
 ## About Me  
 **Casual Interests**: Gaming 🎮, Reading 📚, Gym 💪, Bunny Mom 🐰
 
+<details>
+  <summary>More About Me</summary>
+  
+  This is the content of the collapsible section.
+  
+</details>
+
 
 
 
