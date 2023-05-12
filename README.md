@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Megan
+### Hi there 👋 I'm Megan (she/her)
 I am a software engineering student
 
-Currently learning **python**
+🌱 Currently learning **python**
 
 [UX Research and Design Project](https://uxfol.io/p/4fd6ec7f/03d3353f) | [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682208/)
 
