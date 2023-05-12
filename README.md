@@ -3,7 +3,11 @@ I am a software engineering student
 
 Currently learning 🌱: **Python**
 
-[UX Research and Design Project](https://uxfol.io/p/4fd6ec7f/03d3353f) | [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682208/)
+Find me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682208/)
+
+Projects
+[UX Research and Design Project](https://uxfol.io/p/4fd6ec7f/03d3353f)
+[Figma Prototype](https://www.figma.com/file/UCpJGnSs6hcFc5eH9FCdKs/INF-132-Project?type=design&node-id=14-3)
 
 **Skills**: Beginner R :bar_chart:, Beginner Python :snake:, Beginner Wordpress 🌐, Figma for prototyping :art:
 
