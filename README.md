@@ -3,20 +3,24 @@ I am a software engineering student!
 
 Currently learning 🌱: **Python**, **Javascript**
 
+**Skills**: Beginner R :bar_chart:, Beginner Python :snake:, Beginner Wordpress 🌐, Figma for prototyping :art:,
+Social Media Management 📱, Photoshop 🎨, Writing 📝
+
 -----------------------------------------------------
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682208/)
 
 -----------------------------------------------------
 
-**Skills**: Beginner R :bar_chart:, Beginner Python :snake:, Beginner Wordpress 🌐, Figma for prototyping :art:,
-Social Media Management 📱, Photoshop 🎨, Writing 📝
-
-**Casual Interests**: Gaming 🎮, Reading 📚, Gym 💪, Bunny Mom 🐰
-
 ## Projects  
 [UX Research and Design Project](https://uxfol.io/p/4fd6ec7f/03d3353f)  
-[Figma Prototype](https://www.figma.com/file/UCpJGnSs6hcFc5eH9FCdKs/INF-132-Project?type=design&node-id=14-3)  
+[Figma Prototype](https://www.figma.com/file/UCpJGnSs6hcFc5eH9FCdKs/INF-132-Project?type=design&node-id=14-3) 
+
+## About Me  
+**Casual Interests**: Gaming 🎮, Reading 📚, Gym 💪, Bunny Mom 🐰
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSetl7jfqEZxB2g3jaoc1ZhUP6wrvgRQPT1vHcx4MfAGbALS0w/viewform?embedded=true" width="640" height="350" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
 
 
 <!--
