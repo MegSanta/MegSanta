@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Megan (she/her)
 I am a software engineering student
 
-Currently learning 🌱: **python**
+Currently learning 🌱: **Python**
 
 [UX Research and Design Project](https://uxfol.io/p/4fd6ec7f/03d3353f) | [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682208/)
 
-**Skills**: Beginner R :bar_chart:, Beginner Python :snake:, Figma for prototyping :art:
+**Skills**: Beginner R :bar_chart:, Beginner Python :snake:, Beginner Wordpress 🌐, Figma for prototyping :art:
 
 **Casual Interests**: Gaming 🎮, Reading 📚, Gym 💪, Bunny Mom 🐰
 
