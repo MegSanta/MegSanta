@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Megan (she/her)
-I am a software engineering student
+I am a software engineering student!
 
 Currently learning 🌱: **Python**, **Javascript**
 
 -----------------------------------------------------
 
-Find me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682208/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682208/)
 
 -----------------------------------------------------
 
