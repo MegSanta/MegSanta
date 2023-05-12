@@ -6,8 +6,8 @@ Currently learning **python**
 [UX Research and Design Project](https://uxfol.io/p/4fd6ec7f/03d3353f) | [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682208/)
 
 Skills:
-Beginner R
-Beginner Python
+Beginner R,
+Beginner Python,
 Figma for prototyping
 
 
