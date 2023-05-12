@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Megan (she/her)
 I am a software engineering student
 
-Currently learning 🌱: **Python**
+Currently learning 🌱: **Python**, **Javascript**
 
 -----------------------------------------------------
 
