@@ -22,7 +22,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682
 <details>
   <summary>More About Me</summary>
   
-  This is the content of the collapsible section.
+  I have a BA in Psychological Science with a Minor in Digital Information Systems. I am currently completing a second BS in Software Engineering. I am hoping to go into backend development. I enjoy data and automation projects. I have done some cool data projects in R that I will upload when I get around to it... 
+  
+  Thanks for checking out my page ❤️
   
 </details>
 
