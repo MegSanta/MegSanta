@@ -9,7 +9,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682
 
 -----------------------------------------------------
 
-**Skills**: Beginner R :bar_chart:, Beginner Python :snake:, Beginner Wordpress 🌐, Figma for prototyping :art:
+**Skills**: Beginner R :bar_chart:, Beginner Python :snake:, Beginner Wordpress 🌐, Figma for prototyping :art:,
 Social Media Management 📱, Photoshop 🎨, Writing 📝
 
 **Casual Interests**: Gaming 🎮, Reading 📚, Gym 💪, Bunny Mom 🐰
