@@ -3,6 +3,8 @@ I am a software engineering student!
 
 Currently learning 🌱: **Python**, **Javascript**
 
+ICSSC Web Development Fellowship
+
 **Skills**: Beginner R :bar_chart:, Beginner Python :snake:, Beginner Wordpress 🌐, Figma for prototyping :art:,
 Social Media Management 📱, Photoshop 🎨, Writing 📝
 
