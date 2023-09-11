@@ -16,7 +16,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682
 
 ## Projects  
 [Personal Website (in progress)](https://megsanta.github.io/)
-
 [UX Research and Design Project](https://uxfol.io/p/4fd6ec7f/03d3353f)  
 [Figma Prototype](https://www.figma.com/file/UCpJGnSs6hcFc5eH9FCdKs/INF-132-Project?type=design&node-id=14-3) 
 
@@ -26,7 +25,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682
 <details>
   <summary>More About Me</summary>
   
-  I have a BA in Psychological Science with a Minor in Digital Information Systems. I am currently completing a second BS in Software Engineering. I am hoping to go into backend development. I enjoy data and automation projects. I have done some cool data projects in R that I will upload when I get around to it... 
+  I have a BA in Psychological Science with a Minor in Digital Information Systems. I am currently completing a second BS in Software Engineering. I enjoy data and automation projects. I have done some cool data projects in R that I will upload... eventually.
   
   Thanks for checking out my page ❤️
   
