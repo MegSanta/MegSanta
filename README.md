@@ -16,7 +16,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682
 
 ## Projects  
 [Personal Website (in progress)](https://megsanta.github.io/)
+
 [UX Research and Design Project](https://uxfol.io/p/4fd6ec7f/03d3353f)  
+
 [Figma Prototype](https://www.figma.com/file/UCpJGnSs6hcFc5eH9FCdKs/INF-132-Project?type=design&node-id=14-3) 
 
 ## About Me  
