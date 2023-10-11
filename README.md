@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Megan (she/her)
 I am a software engineering student!
 
-Currently learning 🌱: **Python**, **Javascript**, **Kotlin**
+Currently learning 🌱: **Python**, **Javascript**, **Kotlin**, **Java**
 
 ICSSC Web Development Fellowship/CodePath Andriod Development/Programming Tutor
 
