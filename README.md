@@ -3,7 +3,7 @@ I am a software engineering student!
 
 Currently learning 🌱: **Python**, **Javascript**, **Kotlin**
 
-ICSSC Web Development Fellowship/CodePath Andriod Development
+ICSSC Web Development Fellowship/CodePath Andriod Development/Programming Tutor
 
 **Skills**: Intermediate Python :snake:, Beginner R :bar_chart:, Beginner Wordpress 🌐, Figma for prototyping :art:,
 Social Media Management 📱, Photoshop 🎨, Writing 📝
@@ -16,6 +16,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682
 
 ## Projects  
 [Personal Website (in progress)](https://megsanta.github.io/)
+
+[Percentage Calculator Andriod App](https://github.com/MegSanta/PercentageCalculator)
 
 [Gameboard UI](https://github.com/MegSanta/TicTacToe)
 
