@@ -17,6 +17,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682
 ## Projects  
 [Personal Website (in progress)](https://megsanta.github.io/)
 
+[Say Hi! App](https://github.com/MegSanta/PreworkAND102)
+
 [NASA API Picture App](https://github.com/MegSanta/NASAApiProject)
 
 [Percentage Calculator Andriod App](https://github.com/MegSanta/PercentageCalculator)
