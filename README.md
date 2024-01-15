@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Megan (she/her)
-I am a software engineering student!
+I am a UCI software engineering student!
 
 Currently learning 🌱: **Python**, **Javascript**, **Kotlin**, **Java**
 
