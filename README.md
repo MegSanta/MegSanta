@@ -3,7 +3,7 @@ I am a UCI software engineering student!
 
 Currently learning 🌱: **Javascript**, **Kotlin**, **Java**
 
-ICSSC Web Development Fellowship/CodePath Andriod Development/Programming Tutor
+ICSSC Web Development Fellowship/CodePath Andriod Development/Programming Tutor (Python and Java)
 
 **Skills**: Intermediate Python :snake:, Wordpress 🌐, Figma for prototyping :art:,
 Social Media Management 📱, Photoshop 🎨, Writing 📝
