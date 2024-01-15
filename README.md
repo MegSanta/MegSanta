@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Megan (she/her)
 I am a UCI software engineering student!
 
-Currently learning 🌱: **Javascript**, **Kotlin**, **Java**
+Currently learning 🌱: **Javascript**, **Kotlin**, **Java**, **C++**
 
 ICSSC Web Development Fellowship/CodePath Andriod Development/Programming Tutor (Python and Java)
 
