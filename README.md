@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Megan (she/her)
 I am a UCI software engineering student!
 
-Currently learning 🌱: **Javascript**, **Kotlin**, **Java**, **C++**
+Languages 🌱: **Javascript**, **Kotlin**, **Java**, **C++**, **Python**
 
 ICSSC Web Development Fellowship/CodePath Andriod Development/Programming Tutor (Python and Java)
 
-**Skills**: Intermediate Python :snake:, Wordpress 🌐, Figma for prototyping :art:,
+**Skills**: Wordpress 🌐, Figma for prototyping :art:,
 Social Media Management 📱, Photoshop 🎨, Writing 📝
 
 -----------------------------------------------------
