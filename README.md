@@ -30,8 +30,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/megan-santagata-aba682
 
 [Figma Prototype](https://www.figma.com/file/UCpJGnSs6hcFc5eH9FCdKs/INF-132-Project?type=design&node-id=14-3) 
 
-[Personal Website (in progress)](https://megsanta.github.io/)
-
 ## About Me  
 **Casual Interests**: Gaming 🎮, Reading 📚, Gym 💪, Bunny Mom 🐰
 
